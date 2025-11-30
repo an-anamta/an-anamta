@@ -17,7 +17,7 @@
 
 🛠️ Tech Stack
 
-Languages: C, C++, Python, Java
+Languages: C, Python, Java
 
 Web Technologies: HTML, CSS, JavaScript, MERN-Stack
 
@@ -35,7 +35,7 @@ Actively contributing to open-source and university-level coding projects.
 
 🌐 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com.in/anamta-ahmed-26a86a31a/
+💼 : https://www.linkedin.com.in/anamta-ahmed-26a86a31a/
 
 ✉️ Email: anamtaahmed@example.com
 an-anamta/an-anamta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
