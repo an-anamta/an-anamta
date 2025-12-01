@@ -33,7 +33,7 @@ Strengthening my understanding of AI & Data Science fundamentals.
 
 Actively contributing to open-source and university-level coding projects.
 
-Portfolio: https://app.netlify.com/projects/anamtaah
+Portfolio: https://anamtaah.netlify.app/
 
 🌐 Connect With Me
 
