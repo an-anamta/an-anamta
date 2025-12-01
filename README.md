@@ -33,11 +33,13 @@ Strengthening my understanding of AI & Data Science fundamentals.
 
 Actively contributing to open-source and university-level coding projects.
 
+Portfolio: https://app.netlify.com/projects/anamtaah
+
 🌐 Connect With Me
 
 💼 : https://www.linkedin.com.in/anamta-ahmed-26a86a31a/
 
-✉️ Email: anamtaahmed@example.com
+✉️ Email: anamta786@gmail.com
 an-anamta/an-anamta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
