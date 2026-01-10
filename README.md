@@ -39,7 +39,7 @@ Portfolio: https://anamtaah.netlify.app/
 
 💼 : https://www.linkedin.com.in/anamta-ahmed-26a86a31a/
 
-✉️ Email: anamta786@gmail.com
+✉️ Email: itsanamta786@gmail.com
 an-anamta/an-anamta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
